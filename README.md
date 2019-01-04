@@ -80,9 +80,9 @@ e.g..
 ```
 # How to Submit?
 * As a student, you can apply for a GitHub Student Developer Pack, which offers unlimited private repositories.
-* Fork this repository, and then make your forked repo private. (Settings -> Danger Zone)
+* Fork this repository, and then make your forked repo duplicated. (Settings -> Danger Zone)
 * Add nctu-arch as collaborator. (Settings -> collaborator)
-* After deadline you need to create a pull request for open review.
+* After deadline we will pull your source code for open review.
 * Please describe the external plugins you used and its usage precisely.
 # Example usage
   ```
@@ -90,4 +90,4 @@ e.g..
   ```
   * default: overide team 12 data
 # Score sheet link
-https://docs.google.com/spreadsheets/d/1-Z8Q7NkgjgPS7OUu3Z0AQiBScHSKcc-IoEZdGazyq1A/edit?usp=sharing
+http://140.113.213.76/
